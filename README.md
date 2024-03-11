@@ -7,4 +7,6 @@ There is some minor changes
 
 Original Post link: https://medium.com/@mahimairaja/build-knowledge-graph-from-textdata-using-langchain-under-2min-ce0d0d0e44e8 
 
+TODO: Make integrated graph
+
 +) Initial implementation costs about 0.02$, with GPT-4 API
